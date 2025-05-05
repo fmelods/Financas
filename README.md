@@ -113,6 +113,7 @@ financas-pro/
 ├── README.md               # Documentação do projeto
 ├── tailwind.config.ts      # Configuração do Tailwind CSS
 └── tsconfig.json           # Configuração do TypeScript
+```
 
 ## Próximos Passos
 
