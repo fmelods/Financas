@@ -1,7 +1,5 @@
 # FinançasPro - Sistema de Gerenciamento de Finanças Pessoais
 
-![FinançasPro Logo](https://via.placeholder.com/1200x630/e2f5ea/10b981?text=Finan%C3%A7asPro)
-
 FinançasPro é uma aplicação web moderna para gerenciamento de finanças pessoais, desenvolvida com Next.js e Tailwind CSS. A plataforma oferece uma interface limpa e intuitiva para controle de receitas, despesas, metas financeiras e visualização de dados através de gráficos interativos.
 
 ## 📋 Índice
