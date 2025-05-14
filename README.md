@@ -7,11 +7,7 @@ FinançasPro é uma aplicação web moderna para gerenciamento de finanças pess
 - [Funcionalidades](#-funcionalidades)
 - [Tecnologias](#-tecnologias)
 - [Instalação e Execução](#-instalação-e-execução)
-- [Estrutura do Projeto](#-estrutura-do-projeto)
-- [Capturas de Tela](#-capturas-de-tela)
-- [Próximos Passos](#-próximos-passos)
 - [Como Contribuir](#-como-contribuir)
-- [Licença](#-licença)
 
 ## ✨ Funcionalidades
 
@@ -46,25 +42,30 @@ Siga estas etapas para configurar o projeto localmente:
 ### Passos para instalação
 
 1. Clone o repositório:
+```bash
    git clone https://github.com/seu-usuario/financas-pro.git
    cd financas-pro
+```
 
 2. Instale as dependências:
 
+```bash
 npm install
 # ou
 yarn install
 # ou
 pnpm install
-
+```
 
 3. Execute o servidor de desenvolvimento:
 
+```bash
 npm run dev
 # ou
 yarn dev
 # ou
 pnpm dev
+```
 
 
 4. Abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver a aplicação.
