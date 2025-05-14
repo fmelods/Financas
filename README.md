@@ -146,4 +146,6 @@ Contribuições são sempre bem-vindas! Siga estes passos para contribuir:
 - Mantenha a documentação atualizada
 - Verifique se todos os testes passam antes de enviar um PR
 
+##
+
 Desenvolvido com ❤️ por Felipe (https://github.com/fmelods)
